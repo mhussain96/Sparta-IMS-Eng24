@@ -19,8 +19,10 @@ namespace SpartaIMSEng24.Models
         public string LastName { get; set; }
         [Required]
         [DataType(DataType.EmailAddress)]
+        [RegularExpression(@"^[\w]+\@spartaglobal\.com$")]
         public string Email { get; set; }
         [DataType(DataType.Password)]
+        [RegularExpression(@"^(?=(.*[a-z]){1,})(?=(.*[\d]){1,})(?!.*\s).{8,30}$")]
         public string Password { get; set; }
         [Display(Name = "Full Name")]
         public string FullName
