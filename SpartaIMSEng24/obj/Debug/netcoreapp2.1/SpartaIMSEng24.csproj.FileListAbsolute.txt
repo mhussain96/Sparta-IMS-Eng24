@@ -119,3 +119,8 @@ C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\De
 C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\JobRoles\Details.g.cshtml.cs
 C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\JobRoles\Edit.g.cshtml.cs
 C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\JobRoles\Index.g.cshtml.cs
+C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\Specialisations\Create.g.cshtml.cs
+C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\Specialisations\Delete.g.cshtml.cs
+C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\Specialisations\Details.g.cshtml.cs
+C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\Specialisations\Edit.g.cshtml.cs
+C:\Users\tech-w105a\Desktop\Final_Project\Sparta-IMS-Eng24\SpartaIMSEng24\obj\Debug\netcoreapp2.1\Razor\Views\Specialisations\Index.g.cshtml.cs
