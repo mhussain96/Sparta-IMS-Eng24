@@ -11,6 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SpartaIMSEng24.Data;
+using SpartaIMSEng24.Models;
 
 namespace SpartaIMSEng24
 {
@@ -36,6 +37,9 @@ namespace SpartaIMSEng24
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<SpartaIMSContext>(item => item.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddDbContext<SpartaIMSEng24Context>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("SpartaIMSEng24Context")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
